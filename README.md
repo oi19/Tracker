@@ -1,5 +1,3 @@
-# react-native
-react-native &amp; Hooks by stephen Grider on Udemy 
 # Tracker Project:
   
   - This App provides the abiltiy to create tracks , record your tracks , and save them  as well as listing all previous saved tracks made by the user,
