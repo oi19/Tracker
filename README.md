@@ -1,4 +1,4 @@
-# Tracker App :
+# Tracker :
   
   - A tracking app with many features that help you record your tracks , and save them  as well as listing all previous saved tracks made by the user,
     And the ability to keep tracking user's location off and on the trackScreen to provide more features to the app , More Over, The ability to add new features
