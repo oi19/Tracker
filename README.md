@@ -4,7 +4,7 @@
     And the ability to keep tracking user's location off and on the trackScreen to provide more features to the app , More Over, The ability to add new features
     such as deleting tracks and editing track names , searching for other users and see their records     
   - Adding the abitlity toggle between screens using navigation stucture (SwitchNavigator,StackNavigator, BottomTabNavigator
-  - using context for state management for dynamic usage with the flexibility to change it to redux 
+  - Using context for state management for dynamic usage with the flexibility to change it to redux 
   
   
   # Project Structure 
