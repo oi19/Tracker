@@ -68,8 +68,8 @@ and
 
 or
 ```shell script
-  - cd track-server
-  - ngrok http 3000
+- cd track-server
+- ngrok http 3000
   ```
 
 Run those following commands to run the app in inside Tracker folder.
