@@ -10,7 +10,7 @@
   # Project Structure 
   
   ## App.js 
-   -this file creates the app structure by creating app Container and the Navigation structure as well as the state managment whether context(Providers) or redux 
+   - This file creates the app structure by creating app Container and the Navigation structure as well as the state managment whether context(Providers) or redux 
   
   
   ## src folder 
@@ -27,7 +27,7 @@
       - TrackForm.js
    
    - context folder 
-      -createDataContext.js (responsible for creating Context & blue print for using Context)
+      - createDataContext.js (responsible for creating Context & blue print for using Context)
       - AuthContext.js ( handles the athentication process)
       - LocationContext.js (handles  the location data )
       - TrackContext.js ( handles the track's creating, posting and fetching processes)
